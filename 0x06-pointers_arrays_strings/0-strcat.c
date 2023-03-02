@@ -12,7 +12,7 @@
  *
  * @n: input value
  *
- * Return: dest
+ * Return: void
  */
 
 char *_strncat(char *dest, char *src, int n)

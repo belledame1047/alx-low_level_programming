@@ -5,6 +5,7 @@
  * read_textfile- Read text file print to STDOUT.
  * @filename: text file being read
  * @letters: number of letters the function is to read and print
+ * Author: belledame
  * Return: If the function fails or filename is NULL - 0.
  *         O/w - the actual number of bytes the function can read and print.
  */
